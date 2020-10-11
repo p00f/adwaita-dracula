@@ -24,3 +24,12 @@ Some apps use `$sidebar_bg_color`(Nautilus) for sidebars, but some apps use `$ba
 ## Credits
 
 Huge thanks to [@lonr](https://github.com/lonr) for [Adwaita-One-Dark](https://github.com/lonr/adwaita-one-dark)
+
+## Screenshots
+
+![alt text](https://raw.githubusercontent.com/p00f/adwaita-dracula/master/screenies/1.png)
+![alt text](https://raw.githubusercontent.com/p00f/adwaita-dracula/master/screenies/2.png)
+![alt text](https://raw.githubusercontent.com/p00f/adwaita-dracula/master/screenies/3.png)
+![alt text](https://raw.githubusercontent.com/p00f/adwaita-dracula/master/screenies/4.png)
+![alt text](https://raw.githubusercontent.com/p00f/adwaita-dracula/master/screenies/5.png)
+![alt text](https://raw.githubusercontent.com/p00f/adwaita-dracula/master/screenies/6.png)
