@@ -11,7 +11,7 @@
 
 ## Colors I changed
 
-See 68ea50359b1fdbbf18ed43b5202b2d5de9c59d11 and 3c621766a50a35070fb8cbdd7476b799e8596d6a
+See [`68ea503`](https://github.com/p00f/adwaita-dracula/commit/68ea50359b1fdbbf18ed43b5202b2d5de9c59d11) and [`3c62176`](https://github.com/p00f/adwaita-dracula/commit/3c621766a50a35070fb8cbdd7476b799e8596d6a)
 
 ## How to build by hand
 
