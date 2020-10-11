@@ -20,3 +20,7 @@ You need install [SassC](https://github.com/sass/sassc) first. Then modify `src/
 ## Notes
 
 Some apps use `$sidebar_bg_color`(Nautilus) for sidebars, but some apps use `$base_color`(Tweaks)
+
+## Credits
+
+Huge thanks to [@lonr](https://github.com/lonr) for [Adwaita-One-Dark](https://github.com/lonr/adwaita-one-dark)
