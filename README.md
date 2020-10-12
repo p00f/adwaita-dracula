@@ -1,6 +1,6 @@
 # Adwaita Dracula
 
-[Adwaita](https://github.com/GNOME/gtk/tree/mainline/gtk/theme/Adwaita) with the [Dracula color scheme](https://github.com/dracula/dracula-theme)
+[Adwaita](https://github.com/GNOME/gtk/tree/mainline/gtk/theme/Adwaita) with the [Dracula color scheme](https://github.com/dracula/dracula-theme#color-palette)
 
 ## How to use
 
