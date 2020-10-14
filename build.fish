@@ -1,7 +1,7 @@
 #! /usr/bin/fish
 echo Removing old outputs...
 
-rm -rf Adwaita-Dracula/gnome-shell/
+rm -rf Adwaita-Dracula/gnome-shell/*.css
 rm -rf Adwaita-Dracula/gtk-3.0/
 
 echo Generating the GNOME Shell theme...
