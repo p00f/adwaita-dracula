@@ -6,9 +6,11 @@ rm -rf Adwaita-Dracula/gtk-3.0/
 
 echo Generating the GNOME Shell theme...
 
-mkdir -p Adwaita-Dracula/gnome-shell
+mkdir -p Adwaita-Dracula/gnome-shell/assets
 sassc src/gnome-shell/gnome-shell.scss Adwaita-Dracula/gnome-shell/gnome-shell.css
 cp src/gnome-shell/pad-osd.css Adwaita-Dracula/gnome-shell/pad-osd.css
+cp src/gnome-shell/toggle-on-dark.svg Adwaita-Dracula/gnome-shell/assets/
+cp src/gnome-shell/toggle-off-dark.svg Adwaita-Dracula/gnome-shell/assets/
 
 echo Generating the GTK theme...
 
